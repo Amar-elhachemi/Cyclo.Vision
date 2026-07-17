@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 3D Cylinder Picture Showcase",
+  "description": "An interactive, highly polished web experience featuring a 3D cylinder that spins on scroll to showcase an elegant gallery of pictures, utilizing Three.js and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
